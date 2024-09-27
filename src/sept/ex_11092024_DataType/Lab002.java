@@ -12,7 +12,7 @@ public class Lab002 {
         long phone_num=987654343L;
         char grade = 'A'; // 'A','B','C','D',el->ASCII VALUE - int -assigned.
 
-        long
+
         boolean $=true;
         boolean _123 =true;
         boolean pramod_is_very_strong=true;
